@@ -1,1 +1,1 @@
-# Advanced LIGO GW data --> ML & DL Models
+# LIGO GW res w/ ML
