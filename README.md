@@ -1,1 +1,1 @@
-# ML Algorithms: Linear Regression, Logistic Regression, Neural Networks, etc
+# ML applied to GW
