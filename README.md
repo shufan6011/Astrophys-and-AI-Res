@@ -1,1 +1,1 @@
-# LIGO GW res w/ ML
+# LIGO GW Res w/ ML
