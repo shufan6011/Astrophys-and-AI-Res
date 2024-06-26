@@ -1,2 +1,2 @@
-# LIGO GW Res w/ ML
-# Notebooks may be revised if improvements are found
+# GW Astrophys Res w/ ML Algorithms
+# Notebooks may be revised for improvements
